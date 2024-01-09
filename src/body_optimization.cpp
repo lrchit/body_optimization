@@ -4,7 +4,7 @@
 body_optimization::body_optimization() {
 
   // 读取参数
-  YAML::Node config = YAML::LoadFile("../config/nmpc_config.yaml");
+  YAML::Node config = YAML::LoadFile("../config/body_optimization.yaml");
 
   weightQ = SX::eye(3);
 
