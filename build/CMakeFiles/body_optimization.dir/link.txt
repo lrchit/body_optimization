@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 CMakeFiles/body_optimization.dir/src/body_optimization.cpp.o -o body_optimization   -L/home/lrc/body_optimization/./lib  -Wl,-rpath,/home/lrc/body_optimization/./lib:/usr/local/lib -Wl,-Bstatic -lyaml-cpp -Wl,-Bdynamic /usr/local/lib/libcasadi.so.3.7 

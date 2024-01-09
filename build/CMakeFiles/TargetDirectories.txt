@@ -1,0 +1,3 @@
+/home/lrc/body_optimization/build/CMakeFiles/body_optimization.dir
+/home/lrc/body_optimization/build/CMakeFiles/edit_cache.dir
+/home/lrc/body_optimization/build/CMakeFiles/rebuild_cache.dir
